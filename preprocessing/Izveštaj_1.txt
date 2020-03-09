@@ -1,4 +1,4 @@
-Izveštaj 1: sve urađeno osim preseka gen kolona
+Izveštaj 1: sve urađeno osim preseka gen kolona i p%
 
 -----------------------------------
 -----------------------------------
